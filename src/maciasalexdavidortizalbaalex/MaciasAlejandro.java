@@ -21,8 +21,5 @@ public class MaciasAlejandro {
         System.out.println("Hola añado código");
     }
     
-   public void ultimo(){
-       
-   }
 
 }
