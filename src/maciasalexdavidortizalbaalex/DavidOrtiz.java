@@ -11,7 +11,7 @@ public class DavidOrtiz {
     }
     
     public void david2() {
-    
+          System.out.println("Codigo Alejandro Macias clase david");
     }
     
     public void david3() {
