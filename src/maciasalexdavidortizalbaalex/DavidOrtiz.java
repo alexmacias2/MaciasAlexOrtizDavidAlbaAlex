@@ -7,7 +7,7 @@ package maciasalexdavidortizalbaalex;
 public class DavidOrtiz {
 
     public void david1() {
-        System.out.println("Cambio codigo de este método otra vez ahora soy alejandro");
+        System.out.println("Soy David Genero Conflicto");
     }
     
     public void david2() {
