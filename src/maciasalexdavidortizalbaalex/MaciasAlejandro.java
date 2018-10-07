@@ -13,9 +13,11 @@ public class MaciasAlejandro {
 
     public void OrtizDavid() {
 
-    } public void AlbaAlex() {
+    } 
+    public void AlbaAlex() {
 
-    } public void MaciasAlejandro() {
+    } 
+    public void MaciasAlejandro() {
 
     }
 
