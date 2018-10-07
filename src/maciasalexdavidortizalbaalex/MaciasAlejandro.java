@@ -12,7 +12,7 @@ package maciasalexdavidortizalbaalex;
 public class MaciasAlejandro {
 
     public void OrtizDavid() {
-
+        System.out.println("Codigo David clase Alejandro");
     } 
     public void AlbaAlex() {
         System.out.println("Hola soy Alex Alba y añado código en mi método");
