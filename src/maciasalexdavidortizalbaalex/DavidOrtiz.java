@@ -7,7 +7,7 @@ package maciasalexdavidortizalbaalex;
 public class DavidOrtiz {
 
     public void david1() {
-        System.out.println("Codigo David clase david");
+        System.out.println("Codigo David clase david4");
     }
     
     public void david2() {
