@@ -11,11 +11,11 @@ public class DavidOrtiz {
     }
     
     public void david2() {
-    System.out.println("Añado código a mi método de la clase de David Ortiz");
+    
     }
     
     public void david3() {
-    
+        System.out.println("Hola soy Alex Alba y añado código en clase David");
     }
     
 }
