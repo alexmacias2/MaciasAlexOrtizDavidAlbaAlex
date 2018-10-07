@@ -15,7 +15,7 @@ public class MaciasAlejandro {
         System.out.println("Codigo David clase Alejandro");
     } 
     public void AlbaAlex() {
-        System.out.println("Hola soy Alex Alba y añado código en mi método");
+        System.out.println("Hola soy Alex Alba y añado código en clase Alejandro");
     } 
     public void MaciasAlejandro() {
         System.out.println("Hola añado código");
