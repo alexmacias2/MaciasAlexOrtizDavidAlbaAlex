@@ -18,7 +18,7 @@ public class MaciasAlejandro {
 
     } 
     public void MaciasAlejandro() {
-
+        System.out.println("Hola añado código");
     }
 
 }
