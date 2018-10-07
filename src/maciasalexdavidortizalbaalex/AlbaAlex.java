@@ -7,7 +7,7 @@ package maciasalexdavidortizalbaalex;
 public class AlbaAlex {
 
     public void AlbaAlex() {
-
+        System.out.println("Hola soy Alex Alba y añado código en mi clase");
     } 
     
     public void OrtizDavid() {
